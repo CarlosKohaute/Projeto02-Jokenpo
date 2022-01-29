@@ -10,7 +10,7 @@ var playerchoice = "";
 var computerchoice="";
 var reiniciar = "";
 
-console.log('Vamos jogar Jokepô')
+console.log('Vamos jogar Jokenpô')
 jogadornome = prompt('Qual o seu nome? ')
 name = jogadornome
 console.log(`${name} boa sorte! `)
